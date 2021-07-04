@@ -16,3 +16,4 @@ prev.addEventListener('click', () => {
 next.addEventListener('click', () => {
     calendar.nextMonth();
 })
+
