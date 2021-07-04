@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600&display=swap');
+
+
+$full: 100%;
+$h-screen: 100vh;
+$w-screen: 100vw;
+
+$font-family: 'Oswald', sans-serif;
+
+$box-shadow-primary: 5px 5px 10px $secondary-color-accent,
+  -5px -5px 10px $primary-color-accent;
+
+$box-shadow-secondary: inset 5px 5px 10px $shadow-color, inset -5px -5px 10px $shadow-color-secondary;
+
+$box-shadow-secondary-accent: inset 6px 6px 20px 0px $shadow-color, inset -6px -6px 20px 0px $shadow-color-secondary;
