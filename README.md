@@ -8,6 +8,9 @@
 ## Screenshot
 ![screenshot](screenshot.png)
 
+### Gh-Page Hosted app
+[App](https://akkitheakhil.github.io/neumo-calendar-js/)
+
 ### Built With
 
 * HTML
