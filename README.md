@@ -5,6 +5,8 @@
   A simple calendar build with JavaScript using neumorphism design.
 </p>
 
+## Screenshot
+![screenshot](screenshot.png)
 
 ### Built With
 
