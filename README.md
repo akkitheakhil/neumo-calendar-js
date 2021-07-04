@@ -1,19 +1,16 @@
 <p align="center">
-  <h1 align="center">html-scss-js</h1>
+  <h1 align="center">neumo-calendar-js</h1>
 
   <p align="center">
-   A simple boilerplate code for HTML, CSS and JavaScript.
+  A simple calendar build with JavaScript using neumorphism design.
 </p>
+
 
 ### Built With
 
 * HTML
 * SCSS
 * JavaScript
-
-### Demo Projects build using this boilerplate
-
-- Simple Calculator App -  https://github.com/akkitheakhil/neumorphic-calculator-js
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -31,7 +28,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/akkitheakhil/html-scss-js.git
+   git clone https://github.com/akkitheakhil/neumo-calendar-js
    ```
 2. Install NPM packages
    ```sh
@@ -42,9 +39,11 @@ To get a local copy up and running follow these simple example steps.
    npm start
    ```
 
+#### Template/boilerplate code used -  [https://github.com/akkitheakhil/create-html-scss-js/](https://github.com/akkitheakhil/create-html-scss-js/)
+
 <!-- CONTACT -->
 ## Contact
 
 Akhil Padmanabhan - speaktoakhilp@gmail.com
 
-Project Link: [https://github.com/akkitheakhil/html-scss-js/](https://github.com/akkitheakhil/html-scss-js/)
+Project Link: [https://github.com/akkitheakhil/neumo-calendar-js/](https://github.com/akkitheakhil/neumo-calendar-js/)
